@@ -1,0 +1,2 @@
+OrbitControls is helps to control model through mouse
+useGLTF hook helps to load model in scene
